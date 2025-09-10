@@ -147,5 +147,4 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-git commit -m "PWS"
-git push origin main
+
